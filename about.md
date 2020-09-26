@@ -4,12 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Lucas
 
-### More Information
+### Who Am I
 
-A place to include any other types of information that you'd like to include about yourself.
+Someone who loves to build products
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
